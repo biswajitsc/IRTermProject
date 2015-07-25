@@ -1,0 +1,3 @@
+d3200 
+id:nikon id:d3200 id:red ratingvalue:4 price:rs price:38000 brand:nikon modelid:d3200 color:red 
+nikon d3200 red rs nikon d3200 red 

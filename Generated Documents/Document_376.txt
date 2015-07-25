@@ -1,0 +1,3 @@
+s1200pj 
+id:nikon id:s1200pj id:pink ratingvalue:5 price:rs price:14000 brand:nikon modelid:s1200pj color:pink 
+nikon s1200pj pink rs nikon s1200pj pink 

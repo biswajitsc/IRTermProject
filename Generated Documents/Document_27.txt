@@ -1,0 +1,3 @@
+coolpix aw100 
+id:nikon id:coolpix id:aw100 id:orange ratingvalue:4 price:rs price:14000 brand:nikon modelid:coolpix modelid:aw100 color:orange 
+nikon coolpix aw100 orange rs nikon coolpix aw100 orange 

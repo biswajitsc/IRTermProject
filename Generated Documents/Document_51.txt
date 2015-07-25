@@ -1,0 +1,3 @@
+coolpix l22 
+id:nikon id:coolpix id:l22 id:red ratingvalue:3 price:rs price:6000 brand:nikon modelid:coolpix modelid:l22 color:red 
+nikon coolpix l22 red rs nikon coolpix l22 red 

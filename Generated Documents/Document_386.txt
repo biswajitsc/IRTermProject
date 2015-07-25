@@ -1,0 +1,3 @@
+s4000 
+id:nikon id:s4000 id:bronze ratingvalue:4 price:rs price:6000 brand:nikon modelid:s4000 color:bronze 
+nikon s4000 bronze rs nikon s4000 bronze 

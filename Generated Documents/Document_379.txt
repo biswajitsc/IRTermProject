@@ -1,0 +1,3 @@
+s3000 
+id:nikon id:s3000 id:champagne id:silver ratingvalue:4 price:rs price:7400 brand:nikon modelid:s3000 color:champagne color:silver 
+nikon s3000 champagne silver rs nikon s3000 champagne silver 

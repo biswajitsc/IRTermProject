@@ -1,0 +1,3 @@
+1 j1 
+id:nikon id:1 id:j1 id:white ratingvalue:4 price:rs price:23000 brand:nikon modelid:1 modelid:j1 color:white 
+nikon j1 white rs nikon j1 white 

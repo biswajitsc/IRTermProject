@@ -1,0 +1,3 @@
+s6400 
+id:nikon id:s6400 id:red ratingvalue:4 price:rs price:9500 brand:nikon modelid:s6400 color:red 
+nikon s6400 red rs nikon s6400 red 

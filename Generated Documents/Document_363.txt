@@ -1,0 +1,3 @@
+p310 
+id:nikon id:p310 id:white ratingvalue:4 price:rs price:14000 brand:nikon modelid:p310 color:white 
+nikon p310 white rs nikon p310 white 

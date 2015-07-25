@@ -1,0 +1,3 @@
+coolpix s3100 
+id:nikon id:coolpix id:s3100 id:blue ratingvalue:4 price:rs price:6500 brand:nikon modelid:coolpix modelid:s3100 color:blue 
+nikon coolpix s3100 blue rs nikon coolpix s3100 blue 

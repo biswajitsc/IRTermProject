@@ -1,0 +1,3 @@
+s6400 
+id:nikon id:s6400 id:blue ratingvalue:4 price:rs price:10000 brand:nikon modelid:s6400 color:blue 
+nikon s6400 blue rs nikon s6400 blue 

@@ -1,0 +1,3 @@
+s3000 
+id:nikon id:s3000 id:red ratingvalue:4 price:rs price:7400 brand:nikon modelid:s3000 color:red 
+nikon s3000 red rs nikon s3000 red 

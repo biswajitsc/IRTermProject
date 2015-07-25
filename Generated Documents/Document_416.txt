@@ -1,0 +1,3 @@
+s8100 
+id:nikon id:s8100 id:gold ratingvalue:5 price:rs price:5500 brand:nikon modelid:s8100 color:gold 
+nikon s8100 gold rs nikon s8100 gold 

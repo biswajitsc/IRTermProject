@@ -1,0 +1,3 @@
+s5100 
+id:nikon id:s5100 id:red price:rs price:7400 brand:nikon modelid:s5100 color:red 
+nikon s5100 red rs nikon s5100 red 

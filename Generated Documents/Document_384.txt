@@ -1,0 +1,3 @@
+s3000 
+id:nikon id:s3000 id:purple ratingvalue:4 price:rs price:7400 brand:nikon modelid:s3000 color:purple 
+nikon s3000 purple rs nikon s3000 purple 

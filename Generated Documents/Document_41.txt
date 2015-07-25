@@ -1,0 +1,3 @@
+coolpix l120 
+id:nikon id:coolpix id:l120 id:bronze ratingvalue:4 price:rs price:13000 brand:nikon modelid:coolpix modelid:l120 color:bronze 
+nikon coolpix l120 bronze rs nikon coolpix l120 bronze 

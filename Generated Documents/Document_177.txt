@@ -1,0 +1,3 @@
+coolpix s3100 
+id:nikon id:coolpix id:s3100 id:purple ratingvalue:4 price:rs price:6500 brand:nikon modelid:coolpix modelid:s3100 color:purple 
+nikon coolpix s3100 purple rs nikon coolpix s3100 purple 

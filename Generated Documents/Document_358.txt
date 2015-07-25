@@ -1,0 +1,3 @@
+l110 
+id:nikon id:l110 id:red price:rs price:14000 brand:nikon modelid:l110 color:red 
+nikon l110 red rs nikon l110 red 

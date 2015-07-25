@@ -1,0 +1,3 @@
+d3100 
+id:nikon id:d3100 id:red ratingvalue:4 price:rs price:27000 brand:nikon modelid:d3100 color:red 
+nikon d3100 red rs nikon d3100 red 

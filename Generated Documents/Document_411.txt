@@ -1,0 +1,3 @@
+s800c 
+id:nikon id:s800c id:white ratingvalue:4 price:rs price:15000 brand:nikon modelid:s800c color:white 
+nikon s800c white rs nikon s800c white 
