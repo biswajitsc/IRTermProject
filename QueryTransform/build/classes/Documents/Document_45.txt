@@ -1,0 +1,3 @@
+coolpix l21 
+id:nikon id:coolpix id:l21 id:brown color_list:brown ratingvalue:4 price:rs price:4600 brand:nikon modelid:coolpix modelid:l21 color:brown 
+nikon coolpix l21 brown brown rs nikon coolpix l21 brown 

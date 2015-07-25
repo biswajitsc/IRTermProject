@@ -1,0 +1,3 @@
+coolpix p500 
+id:nikon id:coolpix id:p500 id:red color_list:red ratingvalue:4 price:rs price:19000 brand:nikon modelid:coolpix modelid:p500 color:red 
+nikon coolpix p500 red red rs nikon coolpix p500 red 

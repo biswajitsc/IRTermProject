@@ -1,0 +1,3 @@
+coolpix l21 
+id:nikon id:coolpix id:l21 id:champagne id:silver color_list:champagne color_list:silver ratingvalue:4 price:rs price:4600 brand:nikon modelid:coolpix modelid:l21 color:champagne color:silver 
+nikon coolpix l21 champagne silver champagne silver rs nikon coolpix l21 champagne silver 

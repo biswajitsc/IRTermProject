@@ -1,0 +1,3 @@
+s01 
+id:nikon id:s01 id:red color_list:red ratingvalue:4 price:rs price:6400 brand:nikon modelid:s01 color:red 
+nikon s01 red red rs nikon s01 red 

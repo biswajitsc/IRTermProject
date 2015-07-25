@@ -1,0 +1,3 @@
+s4000 
+id:nikon id:s4000 id:gloss id:champagne color_list:gloss color_list:champagne ratingvalue:4 price:rs price:9300 brand:nikon modelid:s4000 color:gloss color:champagne 
+nikon s4000 gloss champagne gloss champagne rs nikon s4000 gloss champagne 

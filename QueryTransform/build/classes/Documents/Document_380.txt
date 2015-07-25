@@ -1,0 +1,3 @@
+s3000 
+id:nikon id:s3000 id:green color_list:green ratingvalue:4 price:rs price:7400 brand:nikon modelid:s3000 color:green 
+nikon s3000 green green rs nikon s3000 green 

@@ -1,0 +1,3 @@
+coolpix l120 
+id:nikon id:coolpix id:l120 id:red color_list:red ratingvalue:4 price:rs price:13000 brand:nikon modelid:coolpix modelid:l120 color:red 
+nikon coolpix l120 red red rs nikon coolpix l120 red 

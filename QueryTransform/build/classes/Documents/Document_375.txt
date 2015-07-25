@@ -1,0 +1,3 @@
+s01 
+id:nikon id:s01 id:white color_list:white ratingvalue:4 price:rs price:6400 brand:nikon modelid:s01 color:white 
+nikon s01 white white rs nikon s01 white 
