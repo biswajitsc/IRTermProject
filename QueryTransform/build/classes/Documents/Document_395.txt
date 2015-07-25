@@ -1,0 +1,3 @@
+s5100 
+id:nikon id:s5100 id:silver color_list:silver price:rs price:7400 brand:nikon modelid:s5100 color:silver 
+nikon s5100 silver silver rs nikon s5100 silver 

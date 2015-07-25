@@ -1,0 +1,3 @@
+1 j1 
+id:nikon id:1 id:j1 id:silver color_list:red color_list:silver color_list:white ratingvalue:4 price:rs price:21000 brand:nikon modelid:1 modelid:j1 color:silver 
+nikon j1 silver red silver white rs nikon j1 silver 

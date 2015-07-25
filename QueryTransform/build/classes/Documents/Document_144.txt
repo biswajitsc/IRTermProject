@@ -1,0 +1,3 @@
+coolpix s2500 
+id:nikon id:coolpix id:s2500 id:black color_list:black ratingvalue:4 price:rs price:5500 brand:nikon modelid:coolpix modelid:s2500 color:black 
+nikon coolpix s2500 black black rs nikon coolpix s2500 black 

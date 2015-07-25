@@ -1,0 +1,3 @@
+s3000 
+id:nikon id:s3000 id:orange color_list:orange ratingvalue:4 price:rs price:7400 brand:nikon modelid:s3000 color:orange 
+nikon s3000 orange orange rs nikon s3000 orange 

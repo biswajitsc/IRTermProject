@@ -1,0 +1,3 @@
+s4000 
+id:nikon id:s4000 id:pink color_list:pink ratingvalue:4 price:rs price:9300 brand:nikon modelid:s4000 color:pink 
+nikon s4000 pink pink rs nikon s4000 pink 

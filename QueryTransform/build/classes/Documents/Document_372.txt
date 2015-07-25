@@ -1,0 +1,3 @@
+s01 
+id:nikon id:s01 id:pink color_list:pink ratingvalue:4 price:rs price:4200 brand:nikon modelid:s01 color:pink 
+nikon s01 pink pink rs nikon s01 pink 

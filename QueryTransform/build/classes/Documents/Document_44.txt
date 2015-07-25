@@ -1,0 +1,3 @@
+coolpix l21 
+id:nikon id:coolpix id:l21 id:black color_list:black ratingvalue:4 price:rs price:4600 brand:nikon modelid:coolpix modelid:l21 color:black 
+nikon coolpix l21 black black rs nikon coolpix l21 black 

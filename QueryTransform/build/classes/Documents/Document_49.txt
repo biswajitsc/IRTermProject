@@ -1,0 +1,3 @@
+coolpix l22 
+id:nikon id:coolpix id:l22 id:champagne id:silver color_list:champagne color_list:silver ratingvalue:3 price:rs price:6000 brand:nikon modelid:coolpix modelid:l22 color:champagne color:silver 
+nikon coolpix l22 champagne silver champagne silver rs nikon coolpix l22 champagne silver 

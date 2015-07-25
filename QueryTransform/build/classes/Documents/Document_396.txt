@@ -1,0 +1,3 @@
+s6000 
+id:nikon id:s6000 id:brown color_list:brown ratingvalue:3 price:rs price:11000 brand:nikon modelid:s6000 color:brown 
+nikon s6000 brown brown rs nikon s6000 brown 

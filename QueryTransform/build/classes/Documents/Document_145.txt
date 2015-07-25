@@ -1,0 +1,3 @@
+coolpix s2500 
+id:nikon id:coolpix id:s2500 id:pink color_list:pink ratingvalue:4 price:rs price:5500 brand:nikon modelid:coolpix modelid:s2500 color:pink 
+nikon coolpix s2500 pink pink rs nikon coolpix s2500 pink 
